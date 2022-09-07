@@ -3,6 +3,8 @@
 
 Code structure based on [DaisyExamples](https://github.com/electro-smith/DaisyExamples). Follow the instructions there to build this, you can drop this directory into /patch_sm
 
+[demo on yt](https://youtu.be/U0zgO18_t6A)
+
 Designed for the ElectroSmith Patch Submodule. Majorly a work in progress.
 ## Controls
 
